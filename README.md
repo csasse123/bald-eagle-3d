@@ -4,7 +4,9 @@
 
 An interactive adult bald-eagle anatomy model developed with Christian Sasse’s photographic references. The page opens on the whole assembled eagle with **All** layers enabled. Reset returns to the same default.
 
-Drag to rotate, scroll or pinch to zoom, and click a structure to inspect it. Use **Internal organs** for the organ atlas, the layer checkboxes to uncover deeper structures, or the explosion slider to separate parts. Above and Below provide views of both feather surfaces. Opaque skin and plumage naturally cover the internal structures in the assembled view.
+Drag to rotate, scroll or pinch to zoom, and click a structure to inspect it. **Internal organs** and **Muscles & tendons** are in the anatomy sidebar with the layer controls. Use the muscle-region selector to examine the shoulder, wing, neck, trunk, or leg-to-toe routes. **Hide controls** (or H) clears the overlays; the same button restores them. There is no opaque base or floor ring. Above and Below show both feather surfaces, with rebuilt underside coverts and balanced illumination. Opaque skin and plumage naturally cover internal structures in the assembled view.
+
+Read the [muscle and tendon research notes](ANATOMY-RESEARCH.md) for sources, implemented relationships, and reconstruction limits.
 
 This publication contains the anatomy studio. The separate experimental Flight Lab and slow-motion videos are not included.
 
